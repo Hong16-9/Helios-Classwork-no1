@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/h16/classwork/AnimalProject/build",
+  "command": "/usr/bin/c++  -I\"/home/h16/classwork/AnimalProject/include*\" -std=gnu++17 -o CMakeFiles/AnimalLib.dir/src/no1.cpp.o -c /home/h16/classwork/AnimalProject/src/no1.cpp",
+  "file": "/home/h16/classwork/AnimalProject/src/no1.cpp"
+},
+{
+  "directory": "/home/h16/classwork/AnimalProject/build",
+  "command": "/usr/bin/c++  -I\"/home/h16/classwork/AnimalProject/include*\" -std=gnu++17 -o CMakeFiles/AnimalsInZoo.dir/src/no1.cpp.o -c /home/h16/classwork/AnimalProject/src/no1.cpp",
+  "file": "/home/h16/classwork/AnimalProject/src/no1.cpp"
+}
+]

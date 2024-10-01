@@ -1,0 +1,4 @@
+/home/h16/classwork/AnimalProject/build/CMakeFiles/AnimalLib.dir
+/home/h16/classwork/AnimalProject/build/CMakeFiles/AnimalsInZoo.dir
+/home/h16/classwork/AnimalProject/build/CMakeFiles/edit_cache.dir
+/home/h16/classwork/AnimalProject/build/CMakeFiles/rebuild_cache.dir
